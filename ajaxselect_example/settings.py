@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'links',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -80,3 +81,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# define the lookup channels in use on the site
+AJAX_LOOKUP_CHANNELS = {
+    #  simple: search Person.objects.filter(name__icontains=q)
+    'taglookup'  : {'model': 'links.Tag', 'search_field': 'name'},
+}
