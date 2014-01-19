@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f0929d-39cb-4bd1-a984-13825e001aef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/links/templates/add_link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/links/forms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajaxselect_example/settings.py" afterPath="$PROJECT_DIR$/ajaxselect_example/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajaxselect_example/urls.py" afterPath="$PROJECT_DIR$/ajaxselect_example/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/links/templates/add_link.html" afterPath="$PROJECT_DIR$/links/templates/add_link.html" />
     </list>
     <ignored path="ajaxselect_example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_link.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="add_link.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/templates/add_link.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="298" selection-end="298" vertical-scroll-proportion="0.15384616" vertical-offset="0" max-vertical-offset="702">
+            <state line="6" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="378">
               <folding />
             </state>
           </provider>
@@ -69,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajaxselect_example/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="63" selection-start="2221" selection-end="2221" vertical-scroll-proportion="-26.0" vertical-offset="916" max-vertical-offset="1692">
+            <state line="56" column="44" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.13068181" vertical-offset="916" max-vertical-offset="1692">
               <folding />
             </state>
           </provider>
@@ -213,25 +209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="links" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ajaxselect_example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ajaxselect_example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="links" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -467,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajaxselect_example/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="63" selection-start="2221" selection-end="2221" vertical-scroll-proportion="-26.0" vertical-offset="916" max-vertical-offset="1692">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ajaxselect_example/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="55" selection-start="443" selection-end="443" vertical-scroll-proportion="-8.64" vertical-offset="0" max-vertical-offset="378">
@@ -501,7 +472,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/links/templates/add_link.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="298" selection-end="298" vertical-scroll-proportion="0.15384616" vertical-offset="0" max-vertical-offset="702">
+        <state line="6" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajaxselect_example/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="44" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.13068181" vertical-offset="916" max-vertical-offset="1692">
           <folding />
         </state>
       </provider>
